@@ -330,5 +330,3 @@ From recording the first transaction, to monitoring a portfolio, analyzing stock
 **Abd El Rahman Elsaeedy**
 
 ---
-
-⭐ If you find this project interesting, feel free to explore the repository and follow the development of Invest Tracker.
