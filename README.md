@@ -24,31 +24,39 @@ Instead of relying on manual calculations and scattered information, Invest Trac
 
 ---
 
+# 📸 Project Screenshots
+
+The following screenshots showcase the main areas and features of Invest Tracker.
+
 ---
 
-## 📸 Project Screenshots
+## 🌐 Platform & Authentication
+
+### Landing Page
 
 <p align="center">
-  <img src="screenshots/04-Dashboard.png" width="48%">
-  <img src="screenshots/portfolio.png" width="48%">
+  <img src="screenshots/01- Landing Page.png" width="90%">
 </p>
 
-<p align="center">
-  <img src="screenshots/transactions.png" width="48%">
-  <img src="screenshots/support-resistance.png" width="48%">
-</p>
+### Registration & Login
 
 <p align="center">
-  <img src="screenshots/screener.png" width="48%">
-  <img src="screenshots/favorites.png" width="48%">
-</p>
-
-<p align="center">
-  <img src="screenshots/investment-tools.png" width="48%">
-  <img src="screenshots/blog.png" width="48%">
+  <img src="screenshots/02- Register.png" width="48%">
+  <img src="screenshots/03- Login.png" width="48%">
 </p>
 
 ---
+
+## 🖥️ Dashboard
+
+The main dashboard provides a centralized overview of the investor's portfolio and current investment activity.
+
+<p align="center">
+  <img src="screenshots/04-Dashboard.png" width="90%">
+</p>
+
+---
+
 ## 💡 Portfolio Management
 
 The core of Invest Tracker is a complete **Portfolio Tracking System**.
@@ -69,7 +77,47 @@ Each transaction can include:
 - Price
 - Total amount
 
-The system automatically processes the recorded transactions to provide a clearer view of the investor's portfolio.
+### Portfolio & Holdings
+
+<p align="center">
+  <img src="screenshots/08- Holdings.png" width="90%">
+</p>
+
+### Wallet
+
+<p align="center">
+  <img src="screenshots/12- Wallet.png" width="90%">
+</p>
+
+### Buy Operation
+
+<p align="center">
+  <img src="screenshots/13- Buy.png" width="90%">
+</p>
+
+### Sell Operation
+
+<p align="center">
+  <img src="screenshots/14- Sell.png" width="90%">
+</p>
+
+### Bought Operations
+
+<p align="center">
+  <img src="screenshots/15- Bought.png" width="90%">
+</p>
+
+### Sold Operations
+
+<p align="center">
+  <img src="screenshots/16- Sold.png" width="90%">
+</p>
+
+### Closed Positions
+
+<p align="center">
+  <img src="screenshots/11- Closed Position.png" width="90%">
+</p>
 
 ---
 
@@ -87,13 +135,23 @@ Invest Tracker provides portfolio-level insights including:
 - Investment statistics
 - Recent operations
 
-The goal is to reduce the need for manual calculations and spreadsheet-based tracking.
+### Profit by Stock
+
+<p align="center">
+  <img src="screenshots/09- Profit by stock.png" width="90%">
+</p>
+
+### Profit by Month
+
+<p align="center">
+  <img src="screenshots/10- Profit by month.png" width="90%">
+</p>
 
 ---
 
 ## 📈 Market Tracking
 
-The platform also provides tools for monitoring the stock market and individual securities.
+The platform provides tools for monitoring the stock market and individual securities.
 
 Features include:
 
@@ -103,6 +161,18 @@ Features include:
 - Stock information
 - Market monitoring
 - Price movement tracking
+
+### Stock Prices
+
+<p align="center">
+  <img src="screenshots/05- Prices.png" width="90%">
+</p>
+
+### Top Movers
+
+<p align="center">
+  <img src="screenshots/06- Top Movers.png" width="90%">
+</p>
 
 ---
 
@@ -119,7 +189,9 @@ The system provides:
 - Price distance from important levels
 - Historical market data used for analysis
 
-This allows users to quickly identify important price areas without manually calculating them.
+<p align="center">
+  <img src="screenshots/07- Support & Resistance.png" width="90%">
+</p>
 
 ---
 
@@ -135,7 +207,9 @@ This allows investors to:
 - Follow selected securities
 - Keep important stocks organized
 
-The feature is designed to make monitoring a personalized experience rather than forcing users to search for the same stocks repeatedly.
+<p align="center">
+  <img src="screenshots/06- Favorites.png" width="90%">
+</p>
 
 ---
 
@@ -156,6 +230,8 @@ The screening system can analyze factors such as:
 
 The system generates a structured result that helps users understand the current technical condition of a stock.
 
+> 📌 Screenshots of the Stock Screener can be added here when available.
+
 ---
 
 ## 🛠️ Investment Tools
@@ -170,7 +246,7 @@ Examples include:
 - Capital Growth Calculator
 - Investment-related calculators and utilities
 
-These tools are designed to reduce manual calculations and make common investment decisions easier to evaluate.
+> 📌 Screenshots of the Investment Tools can be added here when available.
 
 ---
 
@@ -209,6 +285,44 @@ Content can include:
 - 🔎 Other financial content
 
 This turns Invest Tracker into more than a portfolio tracking application by combining investment tools with useful financial content.
+
+> 📌 Blog screenshots can be added here when available.
+
+---
+
+## ❓ Help & Information
+
+Invest Tracker also provides dedicated informational pages to help users understand the platform and its policies.
+
+### FAQ
+
+<p align="center">
+  <img src="screenshots/17- FAQ.png" width="90%">
+</p>
+
+### About Invest Tracker
+
+<p align="center">
+  <img src="screenshots/18- about us.png" width="90%">
+</p>
+
+---
+
+## 🔐 Privacy & Terms
+
+The platform includes dedicated legal and privacy pages covering important information related to using the service.
+
+### Privacy Policy
+
+<p align="center">
+  <img src="screenshots/19- Privacy.png" width="90%">
+</p>
+
+### Terms & Conditions
+
+<p align="center">
+  <img src="screenshots/20- Terms.png" width="90%">
+</p>
 
 ---
 
@@ -259,26 +373,6 @@ The system handles:
 
 ---
 
-## 🖥️ Dashboard
-
-The main dashboard provides a centralized overview of the investor's activity.
-
-It can include:
-
-- Total portfolio value
-- Profit & Loss
-- Cash balance
-- Asset distribution
-- Recent transactions
-- Portfolio statistics
-- Market information
-- Favorite stocks
-- Important investment insights
-
-The dashboard is designed to give investors a quick overview without navigating through multiple pages.
-
----
-
 ## 🏗️ System Architecture
 
 The platform is built around a modular architecture separating the main application responsibilities.
@@ -305,19 +399,23 @@ The platform is built around a modular architecture separating the main applicat
 ## 🛠️ Tech Stack
 
 ### Backend
+
 - ASP.NET Core
 - C#
 - RESTful APIs
 
 ### Frontend
+
 - React
 - TypeScript
 - Modern UI Components
 
 ### Database
+
 - Microsoft SQL Server
 
 ### Data & Processing
+
 - Financial Market Data
 - Historical OHLCV Data
 - Technical Analysis Processing
@@ -350,8 +448,18 @@ From recording the first transaction, to monitoring a portfolio, analyzing stock
 
 ---
 
+## 🌐 Live Platform
+
+Visit the live platform:
+
+**[Invest Tracker](https://investtracker.online/)**
+
+---
+
 ## 👨‍💻 Author
 
 **Abd El Rahman Elsaeedy**
 
 ---
+
+> **Note:** This repository is a public showcase of the Invest Tracker project. The source code is not publicly available.
