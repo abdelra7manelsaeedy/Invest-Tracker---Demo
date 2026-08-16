@@ -24,6 +24,31 @@ Instead of relying on manual calculations and scattered information, Invest Trac
 
 ---
 
+---
+
+## 📸 Project Screenshots
+
+<p align="center">
+  <img src="screenshots/dashboard.png" width="48%">
+  <img src="screenshots/portfolio.png" width="48%">
+</p>
+
+<p align="center">
+  <img src="screenshots/transactions.png" width="48%">
+  <img src="screenshots/support-resistance.png" width="48%">
+</p>
+
+<p align="center">
+  <img src="screenshots/screener.png" width="48%">
+  <img src="screenshots/favorites.png" width="48%">
+</p>
+
+<p align="center">
+  <img src="screenshots/investment-tools.png" width="48%">
+  <img src="screenshots/blog.png" width="48%">
+</p>
+
+---
 ## 💡 Portfolio Management
 
 The core of Invest Tracker is a complete **Portfolio Tracking System**.
