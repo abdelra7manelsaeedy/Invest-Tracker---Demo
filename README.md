@@ -29,7 +29,7 @@ Instead of relying on manual calculations and scattered information, Invest Trac
 ## 📸 Project Screenshots
 
 <p align="center">
-  <img src="screenshots/dashboard.png" width="48%">
+  <img src="screenshots/04-Dashboard.png" width="48%">
   <img src="screenshots/portfolio.png" width="48%">
 </p>
 
