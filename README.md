@@ -208,7 +208,7 @@ This allows investors to:
 - Keep important stocks organized
 
 <p align="center">
-  <img src="screenshots/06- Favoriets.png" width="90%">
+  <img src="screenshots/21- Favoriets.png" width="90%">
 </p>
 
 ---
@@ -246,7 +246,9 @@ Examples include:
 - Capital Growth Calculator
 - Investment-related calculators and utilities
 
-> 📌 Screenshots of the Investment Tools can be added here when available.
+<p align="center">
+  <img src="screenshots/22- Tools.png" width="90%">
+</p>
 
 ---
 
@@ -286,7 +288,10 @@ Content can include:
 
 This turns Invest Tracker into more than a portfolio tracking application by combining investment tools with useful financial content.
 
-> 📌 Blog screenshots can be added here when available.
+<p align="center">
+  <img src="screenshots/23- Blog.png" width="90%">
+</p>
+
 
 ---
 
