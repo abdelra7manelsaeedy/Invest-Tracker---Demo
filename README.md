@@ -208,7 +208,7 @@ This allows investors to:
 - Keep important stocks organized
 
 <p align="center">
-  <img src="screenshots/06- Favorites.png" width="90%">
+  <img src="screenshots/06- Favoriets.png" width="90%">
 </p>
 
 ---
