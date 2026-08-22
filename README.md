@@ -230,7 +230,10 @@ The screening system can analyze factors such as:
 
 The system generates a structured result that helps users understand the current technical condition of a stock.
 
-> 📌 Screenshots of the Stock Screener can be added here when available.
+<p align="center">
+  <img src="screenshots/24- Scaner.png" width="48%">
+  <img src="screenshots/25- Stock Deatails.png" width="48%">
+</p>
 
 ---
 
