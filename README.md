@@ -232,6 +232,7 @@ The system generates a structured result that helps users understand the current
 
 <p align="center">
   <img src="screenshots/25- Scaner.png" width="48%">
+  <img src="screenshots/24- Stock Deatails.png" width="48%">
 </p>
 
 ---
